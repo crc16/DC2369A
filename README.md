@@ -1,5 +1,5 @@
 # DC2369A
-Wireless Current Sense with LTC3335 - Nanopower Buck-Boost DC/DC with Integrated Coulomb Counter
+(beta) Wireless Current Sense with LTC2063, AD7988, LTC3335, LT6656
 
 * [Documentation](http://www.linear.com/product/LTC3335)
 
