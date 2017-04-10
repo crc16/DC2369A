@@ -1,7 +1,7 @@
 # DC2369A
 (beta) Wireless Current Sense with LTC2063, AD7988, LTC3335, LT6656
 
-* [Documentation](http://www.linear.com/product/LTC3335)
+* [Documentation](http://www.linear.com/solutions/7698)
 
 On-Chip Software Development Kit
 
